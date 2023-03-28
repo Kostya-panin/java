@@ -1,0 +1,13 @@
+kostya@kostya-VirtualBox:~$ mkdir -p "Игрушки для школьников"
+kostya@kostya-VirtualBox:~$ mkdir -p "Игрушки для дошколят"
+kostya@kostya-VirtualBox:~$ touch "Игрушки для школьников/Роботы.txt"
+kostya@kostya-VirtualBox:~$ touch "Игрушки для школьников/Конструктор.txt"
+kostya@kostya-VirtualBox:~$ touch "Игрушки для школьников/Настольные игры.txt"
+kostya@kostya-VirtualBox:~$ touch "Игрушки для дошколят\Мягкие игрушки.txt"
+kostya@kostya-VirtualBox:~$ touch "Игрушки для дошколят\Куклы.txt"
+kostya@kostya-VirtualBox:~$ touch "Игрушки для дошколят\Машинки.txt"
+mv "Имя Игрушки" Игрушки
+kostya@kostya-VirtualBox:~$ snap install htop
+* * * * * cat /home/kostya/file1>>/home/kostya/file2
+
+
